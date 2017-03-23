@@ -105,5 +105,5 @@
     <string name="text_tutorial1">Detta är lite hjälp till dig för att komma igång med Kurvor! Tryck var som helst för att fortsätta.</string>
     <string name="text_tutorial2">Vi föreslår att du börjar med att välja ett namn, annars kommer ditt användarnamn vara det som din telefon har. (Glöm inte att spara det!)</string>
     <string name="text_tutorial3">Kurvor! tillåter dig att lägga till vänner för att lättare spela med de. Tryck på plustecknet längst uppe för att lägga till en ny vän (du kan också lägga till vänner i rum).  När vänner är inne i rum kan du alltid gå med rummen och de kan skicka en notifikation när de vill spela med dig.</string>
-    <string name="text_tutorial4">Dags att spela! Gör ett nytt spel, gå med ett med hjälp av dess rums-ID eller välj bara ett i listan. </string>
+    <string name="text_tutorial4">Dags att spela! Gör ett nytt spel, gå med ett med hjälp av dess rums-ID eller välj bara ett i listan.! </string>
 </resources>
