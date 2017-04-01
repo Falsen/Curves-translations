@@ -9,7 +9,7 @@
     <string name="save">Save</string>
     <string name="username">Username</string>
     <string name="new_game">New Game</string>
-    <string name="no_lobbies">There are no joinable games currently</string>
+    <string name="no_lobbies">There are no games currently</string>
     <string name="join">Join</string>
     <string name="lobby_id_to_join">Room-ID</string>
     <string name="news">News</string>
@@ -113,4 +113,8 @@
     <string name="text_tutorial4" >Time to play! Create a new game, join a game by it\'s unique lobby ID or simply select one in the list.</string>
     <string name="text_tutorial5" >So you you made a lobby. Press the play button to start the countdown and the eye tells you if the game is visible to everyone. (Only the lobby owner can start the game and change it\'s visibility). \nYou can also add people as friends that are in the lobby.</string>
     <string name="text_tutorial6" >Good luck!</string>
+    <string name="action_feedback" translatable="false">Feedback</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_could_not_find_room">Couldn\'t find any room with that ID</string>
+    <string name="animated_splashscreen">Main menu animations</string>
 </resources>
